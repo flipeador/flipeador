@@ -5,8 +5,8 @@
 I like watermelon 🍉
 
 [![](https://img.shields.io/twitch/status/flipeador)](https://twitch.tv/flipeador)
-[![](https://img.shields.io/badge/Gists-GitHub-green.svg)](https://gist.github.com/flipeador)
-[![](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.com/donate/?hosted_button_id=DNFCXHF8NF32Y)
+[![](https://img.shields.io/badge/Gists-GitHub-181717.svg?logo=github&logoColor=white)](https://gist.github.com/flipeador)
+[![](https://img.shields.io/badge/Donate-PayPal-003087.svg?logo=paypal&logoColor=white)](https://paypal.com/donate/?hosted_button_id=DNFCXHF8NF32Y)
 
 <p align="center">
   <a href="https://youtube.com/@flipeador">
@@ -14,9 +14,6 @@ I like watermelon 🍉
   </a>⠀
   <a href="https://twitch.tv/flipeador">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=128">
-  </a>⠀
-  <a href="https://discord.com/users/422421986309046292">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=discord.com&sz=128">
   </a>⠀
   <a href="https://bsky.app/profile/flipeador.com">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=bsky.app&sz=128">
@@ -26,6 +23,9 @@ I like watermelon 🍉
   </a>⠀
   <a href="https://reddit.com/user/Flipeador">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128">
+  </a>⠀
+  <a href="https://discord.com/users/422421986309046292">
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=discord.com&sz=128">
   </a>⠀
   <a href="https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=60315">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fautohotkey.com&sz=128">
