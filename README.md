@@ -5,8 +5,8 @@
 I like watermelon 🍉
 
 [![](https://img.shields.io/twitch/status/flipeador)](https://twitch.tv/flipeador)
-[![](https://img.shields.io/badge/Gists-GitHub-181717.svg?logo=github&logoColor=white)](https://gist.github.com/flipeador)
-[![](https://img.shields.io/badge/Donate-PayPal-003087.svg?logo=paypal&logoColor=white)](https://paypal.com/donate/?hosted_button_id=DNFCXHF8NF32Y)
+[![](https://img.shields.io/badge/GitHub-Gists-gray.svg?logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/flipeador)
+[![](https://img.shields.io/badge/PayPal-Donate-gray.svg?logo=paypal&logoColor=white&labelColor=003087)](https://paypal.com/donate/?hosted_button_id=DNFCXHF8NF32Y)
 
 <p align="center">
   <a href="https://youtube.com/@flipeador">
