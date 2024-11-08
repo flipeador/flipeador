@@ -114,7 +114,7 @@ If you've been digging around through my repositories, you've probably noticed t
     <img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   </a>⠀
   <a href="https://autohotkey.com">
-    <img width="32" height="32" src="https://res.cloudinary.com/dsr0vvjmp/image/upload/v1696864892/logos/autohotkey.svg">
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fautohotkey.com&sz=128">
   </a>⠀
   <a href="https://react.dev">
     <img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
