@@ -1,8 +1,4 @@
-<img
-  align="left" width="225" height="225" alt="Flipeador's Gravatar"
-  src="https://gravatar.com/avatar/6985bca3399275d826d646b436485a2bcfb2f0900826cf9a90ac6792d74e5eb7.jpg?s=225">
-
-# Flipeador
+# <img width="225" height="225" align="left" src="https://gravatar.com/avatar/6985bca3399275d826d646b436485a2bcfb2f0900826cf9a90ac6792d74e5eb7.jpg?s=700">Flipeador
 
 I like watermelon 🍉
 
@@ -35,7 +31,7 @@ I like watermelon 🍉
   </a>
 </p>
 
-<br>
+<br> <br>
 
 If you've been digging around through my repositories, you've probably noticed that I like to reinvent the wheel and write my own libraries. These are my reasons.
 
