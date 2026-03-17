@@ -7,7 +7,7 @@
   Flipeador
 </h1>
 
-I like watermelon 🍉
+I don't use [AI](https://406.fail) unless explicitly stated. 💩
 
 [![](https://img.shields.io/twitch/status/flipeador)](https://twitch.tv/flipeador)
 [![](https://img.shields.io/badge/Gists-181717.svg?logo=github&logoColor=fff&logoSize=auto)](https://gist.github.com/flipeador)
@@ -33,8 +33,8 @@ I like watermelon 🍉
   <a href="https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=60315" title="AutoHotkey">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fautohotkey.com&sz=128">
   </a>⠀
-  <a href="https://codepen.io/Flipeador" title="CodePen">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=codepen.io&sz=128">
+  <a href="https://codeberg.org/flipeador" title="CodePen">
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=codeberg.org&sz=128">
   </a>
 </p>
 
