@@ -33,7 +33,7 @@ I don't use [AI](https://406.fail) unless explicitly stated. 💩
   <a href="https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=60315" title="AutoHotkey">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fautohotkey.com&sz=128">
   </a>⠀
-  <a href="https://codeberg.org/flipeador" title="CodePen">
+  <a href="https://codeberg.org/flipeador" title="CodeBerg">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=codeberg.org&sz=128">
   </a>
 </p>
