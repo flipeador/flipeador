@@ -1,8 +1,12 @@
 <h1>
   <a href="#">
-    <img
-      width="225" height="225" align="left" alt="Flipeador's Gravatar"
-      src="https://gravatar.com/avatar/6985bca3399275d826d646b436485a2bcfb2f0900826cf9a90ac6792d74e5eb7.jpg?s=700">
+    <picture>
+      <source srcset="https://seccdn.libravatar.org/avatar/6985bca3399275d826d646b436485a2bcfb2f0900826cf9a90ac6792d74e5eb7?s=225">
+      <img
+        align="left"
+        alt="Flipeador's avatar"
+        src="https://gravatar.com/avatar/6985bca3399275d826d646b436485a2bcfb2f0900826cf9a90ac6792d74e5eb7?s=225&r=x&d=identicon">
+    </picture>
   </a>
   Flipeador
 </h1>
