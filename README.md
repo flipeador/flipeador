@@ -16,6 +16,9 @@ I don't use [AI](https://406.fail) unless explicitly stated. 💩
 [![](https://img.shields.io/twitch/status/flipeador)](https://twitch.tv/flipeador)
 [![](https://img.shields.io/badge/Gists-181717.svg?logo=github&logoColor=fff&logoSize=auto)](https://gist.github.com/flipeador)
 [![](https://img.shields.io/badge/PayPal-003087.svg?logo=paypal&logoColor=fff&logoSize=auto)](https://paypal.com/donate/?hosted_button_id=DNFCXHF8NF32Y)
+
+<!--
+
 [![](https://img.shields.io/badge/MercadoPago-FFE600.svg?logo=mercadopago&logoColor=000&logoSize=auto)](https://biolibre.ar/flipeador)
 
 <p align="center">
@@ -143,7 +146,9 @@ If you've been digging around through my repositories, you've probably noticed t
   </a>
 </p>
 
----
+-->
+
+<br> <br> <br> <br>
 
 | Gist | Description |
 | --- | --- |
