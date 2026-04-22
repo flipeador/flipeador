@@ -152,9 +152,10 @@ If you've been digging around through my repositories, you've probably noticed t
 
 | Gist | Description |
 | --- | --- |
-| [`qrcode.js`](https://gist.github.com/flipeador/de0cc6513f2aaa05def7456d99360369) | JavaScript QR code generator for the browser. |
-| [`otp2fa.js`](https://gist.github.com/flipeador/d70a8a08b9600116cc102b6f63e8519e) | JavaScript one-time password implementation for NodeJS and the browser. |
-| [`uuid-v7.js`](https://gist.github.com/flipeador/878e735b9f6432ff7006975627104693) | JavaScript UUIDv7 (Time-Sortable Identifier) for NodeJS and the browser. |
+| [`qrcode.js`](https://gist.github.com/flipeador/de0cc6513f2aaa05def7456d99360369) | QR-Code generator for the browser. |
+| [`otp2fa.js`](https://gist.github.com/flipeador/d70a8a08b9600116cc102b6f63e8519e) | Oone-time password implementation for NodeJS and the browser. |
+| [`uuid-v7.js`](https://gist.github.com/flipeador/878e735b9f6432ff7006975627104693) | UUIDv7 (Time-Sortable Identifier) for NodeJS and the browser. |
+| [`water-fx.md`](https://gist.github.com/flipeador/517befaed8c35749d38b5cc63bbd715e) | Simulation of water ripples on a `<canvas>` element in the browser. |
 | [`node-cryptography.md`](https://gist.github.com/flipeador/af42918938573efe8eef7d09f6cac1ca) | Password hashing & JSON Web Token in NodeJS. |
 | [`image-sprites.md`](https://gist.github.com/flipeador/4963f0bddfc9e4456cdf982a905a86d2) | Create CSS/SVG image sprites. |
 | [`unicode-characters-emojis.md`](https://gist.github.com/flipeador/4ea725293c49a270bcc6e96ef2b8d281) | Unicode characters and emojis. |
